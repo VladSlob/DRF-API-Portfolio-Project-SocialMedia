@@ -8,3 +8,10 @@ RESTful API for a social media application. The API provides functionality for u
 - Celery
 - Redis
 
+# How to run
+- Clone project: git clone https://github.com/VladSlob/DRF-API-Portfolio-Project-SocialMedia
+- go to project path: cd <project_directory>
+- Create venv: python -m venv venv
+- Activate it: venv\scripts\activate
+- Build conteiner: docker compose build
+- Run conteiners: docker compose up
