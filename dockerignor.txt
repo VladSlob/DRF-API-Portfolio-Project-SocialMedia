@@ -1,0 +1,8 @@
+.flake8
+db.sqlite3
+.gitignore
+Dockerfile
+dockerignor.txt
+env.sample
+pyproject.toml
+README.md
